@@ -11,7 +11,7 @@ This project contains a set of dbt models for transforming and analyzing sales a
 
 The Directed Acyclic Graph (DAG) below represents the lineage of dbt models in this project. It illustrates the flow of data and dependencies between different models, providing a visual overview of how data is transformed and processed.
 
-![Screenshot_1](https://github.com/ahmedabdelzher20002002-lab/Data-Transformation-dbt/blob/main/DAGS/Screenshot_1.png)
+![Screenshot_1](https://github.com/ahmedabdabdelzher20002002-lab/-Data-Transformation-dbt/blob/main/DAGS/analytics-engineering-dbt.png)
 The DAG shows the relationships between models, with arrows indicating the flow of data from source to destination. This lineage is essential for understanding the sequence of transformations and how each model contributes to the final analysis.
 
 - **Models**:
