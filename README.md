@@ -1,6 +1,6 @@
 # Data-Transformation Using dbt (Snowflake DWH)
 
-![analytics-engineering-dbt](https://github.com/ahmedabdelzher20002002-lab/Data-Transformation-dbt/blob/main/DAGS/analytics-engineering-dbt.png)
+![analytics-engineering-dbt](https://github.com/ahmedabdabdelzher20002002-lab/-Data-Transformation-dbt/blob/main/DAGS/analytics-engineering-dbt.png?raw=true)
 This project contains a set of dbt models for transforming and analyzing sales and production data. The project is structured as follows:
 
 - **Data Warehouse**: This project utilizes Snowflake as the data warehouse for storing and querying data.
