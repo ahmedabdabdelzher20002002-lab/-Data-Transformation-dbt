@@ -1,6 +1,6 @@
 # Data-Transformation Using dbt (Snowflake DWH)
 
-![analytics-engineering-dbt](https://github.com/M0hamedIbrahim1/Data-Transformation-dbt/blob/main/DAGS/analytics-engineering-dbt.png)
+![analytics-engineering-dbt](https://github.com/ahmedabdelzher20002002-lab/Data-Transformation-dbt/blob/main/DAGS/analytics-engineering-dbt.png)
 This project contains a set of dbt models for transforming and analyzing sales and production data. The project is structured as follows:
 
 - **Data Warehouse**: This project utilizes Snowflake as the data warehouse for storing and querying data.
@@ -11,7 +11,7 @@ This project contains a set of dbt models for transforming and analyzing sales a
 
 The Directed Acyclic Graph (DAG) below represents the lineage of dbt models in this project. It illustrates the flow of data and dependencies between different models, providing a visual overview of how data is transformed and processed.
 
-![Screenshot_1](https://github.com/M0hamedIbrahim1/Data-Transformation-dbt/blob/main/DAGS/Screenshot_1.png)
+![Screenshot_1](https://github.com/ahmedabdelzher20002002-lab/Data-Transformation-dbt/blob/main/DAGS/Screenshot_1.png)
 The DAG shows the relationships between models, with arrows indicating the flow of data from source to destination. This lineage is essential for understanding the sequence of transformations and how each model contributes to the final analysis.
 
 - **Models**:
@@ -25,4 +25,4 @@ The DAG shows the relationships between models, with arrows indicating the flow 
 dbt is a powerful tool for developing, testing, documenting, and deploying data pipelines,
 Feel free to connect with me on LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-ibrahim-513531202/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-abdelzher-7b3384178?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
